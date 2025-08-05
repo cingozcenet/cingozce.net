@@ -1,5 +1,5 @@
 body {
-    background: url('../img/diyarbakir.jpg') no-repeat center center fixed; /* Burası güncellendi */
+    background: url('../img/diyarbakir.jpg') no-repeat center center fixed;
     background-size: cover;
     position: relative;
     color: #fff;
@@ -61,4 +61,5 @@ body::before {
     70% { opacity: 0.4; }
     75% { opacity: 1; }
     100% { opacity: 1; }
+
 }
