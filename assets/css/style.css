@@ -44,9 +44,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* ================================
-   CORE ANIMATIONS
-================================ */
 @keyframes reveal {
     from {
         opacity: 0;
